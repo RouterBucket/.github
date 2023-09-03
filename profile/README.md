@@ -2,4 +2,4 @@
 
 ## Links to our projects:
 
-- [Padavan Kernel 4.4](https://github.com/RouterBucket/padavan-4.4)
+- [Padavan w/ Kernel 4.4 (ZTE-8820S)](https://github.com/RouterBucket/padavan-4.4)
